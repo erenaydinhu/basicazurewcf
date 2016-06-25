@@ -1,0 +1,15 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [6/25/2016 8:24:10 PM] Emulator config file set to C:\Users\Eren\Desktop\AzureCloudService2\AzureCloudService2\csx\Debug\roles\WCFServiceWebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/25/2016 8:24:10 PM] DiagnosticsStoreRootPath set to: C:\Users\Eren\AppData\Local\dftmp\Resources\cf00d3ee-269c-4aaf-a1ae-98d992b5a15e
+DiagnosticsPluginLauncher.exe Information: 0 : [6/25/2016 8:24:10 PM] Loading config file: C:\Users\Eren\Desktop\AzureCloudService2\AzureCloudService2\csx\Debug\roles\WCFServiceWebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/25/2016 8:24:10 PM] Config file to read: C:\Users\Eren\Desktop\AzureCloudService2\AzureCloudService2\csx\Debug\roles\WCFServiceWebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/25/2016 8:24:10 PM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [6/25/2016 8:24:10 PM] Emulator config file set to C:\Users\Eren\Desktop\AzureCloudService2\AzureCloudService2\csx\Debug\roles\WCFServiceWebRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/25/2016 8:24:10 PM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [6/25/2016 8:24:10 PM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [6/25/2016 8:24:10 PM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [6/25/2016 8:24:10 PM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [6/25/2016 8:24:10 PM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [6/25/2016 8:24:10 PM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [6/25/2016 8:24:10 PM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [6/25/2016 8:24:10 PM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [6/25/2016 8:24:10 PM] Resetting DiagnosticPlugin
